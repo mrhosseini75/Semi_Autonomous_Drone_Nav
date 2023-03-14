@@ -62,9 +62,28 @@ Delete the existing `settings.json` file and replace it with the file you downlo
 
 * After replacing the `setting.json` file, you need to reopen the `Drone_VR.sln` file in your Unreal project folder. Once the file is open, the changes in the new `setting.json` file and the existing file will merge automatically.
 * Play again `Drone_VR.sln`, open the environment from the bottom window where you can find the Content folder. Inside the Content folder, you will find a map named `Drone_AirSim_Controller.umap`. Try to open it, and the environment will appear. You can now play the game and see the environment, as shown in above figure.
-* 
+* To connect to the AirSim drone in the Unreal Engine environment, you need to open the DroneShell.sln file from the DroneShell folder in your project file. Make sure the solution configuration is set to "Debug" and the solution platform is set to "x64", and then start it. A shell window will appear where you can find the connection to connect to the AirSim drone. Once connected, you can enter commands and enjoy the game. 
+
+_Note: DroneShell algorithm uses single communication, therfore each time you can send command and wait for answer. Due to the condition mentioned before we have so diffiuctly to get feedback in realtime from drone._
+
 Usage
 =============
+| Github-page | Email |
+|------------------|------------------|
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+|                  |                  |
+
+
 
 Video
 =============
