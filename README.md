@@ -56,12 +56,13 @@ Installation
   
   _Note: To ensure optimal performance, it's recommended to uncheck the "Use Less CPU when in Background" option in Unreal Editor. To do this, go to Edit/Editor Preferences, search for "CPU", and uncheck the option. If you don't do this, Unreal Engine will be slowed down dramatically when the window loses focus._
 
+* Stop the game and close the environment. In your `Documents` folder, you can find a folder named AirSim, which is created automatically after the first run.
+Inside the folder, there is a file named `settings.json`, where you can define the properties for your vehicle, sensors, cameras, and more.
+Delete the existing `settings.json` file and replace it with the file you downloaded from our Google Drive.
 
-
-
-
-
-
+* After replacing the `setting.json` file, you need to reopen the `Drone_VR.sln` file in your Unreal project folder. Once the file is open, the changes in the new `setting.json` file and the existing file will merge automatically.
+* Play again `Drone_VR.sln`, open the environment from the bottom window where you can find the Content folder. Inside the Content folder, you will find a map named `Drone_AirSim_Controller.umap`. Try to open it, and the environment will appear. You can now play the game and see the environment, as shown in Figure 1.
+* 
 Usage
 =============
 
