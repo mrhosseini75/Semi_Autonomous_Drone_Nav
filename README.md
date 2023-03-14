@@ -54,7 +54,7 @@ Installation
   * Go to Window/World Settings and set the GameMode Override to AirSimGameMode.
   * When you first time play the game, Unreal will ask you which type of vehicle you want to use with AirSim. It's not really important which option you choose, just select one and start playing.
   
-  *Note: To ensure optimal performance, it's recommended to uncheck the "Use Less CPU when in Background" option in Unreal Editor. To do this, go to Edit/Editor Preferences, search for "CPU", and uncheck the option. If you don't do this, Unreal Engine will be slowed down dramatically when the window loses focus.
+  _Note: To ensure optimal performance, it's recommended to uncheck the "Use Less CPU when in Background" option in Unreal Editor. To do this, go to Edit/Editor Preferences, search for "CPU", and uncheck the option. If you don't do this, Unreal Engine will be slowed down dramatically when the window loses focus._
 
 
 
