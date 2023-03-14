@@ -17,7 +17,8 @@ The simulation allows for testing and validation of drone-related algorithms and
 Requirments
 =============
 
-System 
+
+<img src="https://user-images.githubusercontent.com/80394968/224969515-c77bdfe8-f115-4f14-bb31-0ca5ce6cbf19.png" width="30" /> System 
 -------
 
 * Win OS 10/11 
@@ -25,7 +26,7 @@ System
 * CPU with at least 4 cores
 * SSD hard drive with at least 15 GB free space 
 
-<img src="https://user-images.githubusercontent.com/80394968/224968817-f3c90999-af62-4c9c-9f00-961ecad7ec51.png" width="40" /> Tools
+<img src="https://user-images.githubusercontent.com/80394968/224968817-f3c90999-af62-4c9c-9f00-961ecad7ec51.png" width="30" /> Tools
 -----
 * Unreal Engine 4.27
 * AirSim (new version)
