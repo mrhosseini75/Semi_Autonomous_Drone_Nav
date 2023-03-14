@@ -1,7 +1,7 @@
 # Semi Autonomus Drone Navigation
 
 Introduction
--------------
+=============
 
 The simulation process involves creating a virtual environment using Unreal Engine 4.27 and the AirSim plugin, which provides a high-fidelity simulation of drone flight and sensor data collection. The environment includes various types of crops, terrain, and obstacles that the drone must navigate around. The simulation allows for the testing and validation of different drone sensors, including RGB and thermal cameras, LIDAR, and ultrasound sensors.
 
@@ -14,6 +14,8 @@ The simulation allows for testing and validation of drone-related algorithms and
   Drone farming environment
 </p>
 
+Installation
+=============
 System Requirment 
 ------------------
 
