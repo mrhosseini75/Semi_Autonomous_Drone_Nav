@@ -80,7 +80,7 @@ Usage
 |PlayPose|Use data registered via recordpose() to reach set of points|
 |RecordPose|User can append a single pose snapshot and create mauale path|
 |RequestControl|Take offboard control of drone|
-|SensorFeedback|retrieve feedback from the Barometer, GPS, and IMU  and Lidar sensors|
+|SensorFeedback|Retrieve feedback from the Barometer, GPS, and IMU  and Lidar sensors|
 |SquareByPath|Make the drone go in a square using path commands|
 |TakeOff|Drone takeoff to a default altitude|
 |help,?|Help on the supported commands|
