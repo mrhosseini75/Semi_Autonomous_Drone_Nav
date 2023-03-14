@@ -48,7 +48,16 @@ Installation
 * Copy the "Drone_shell" file from the AirSim package and paste it into the ``Document\Unreal Project\Drone_VR`` folder.
 * Copy the "Plugin" file from the "AirSim\Unreal" package and paste it into the ``Document\Unreal Project\Drone_VR`` folder. There may already be a "Plugins" folder inside the "Drone_VR" directory. Simply replace it with the new one from the AirSim package.
 * Right-click on the ``Dorne_VR.uproject`` file in the Drone_VR folder and select `Generate Visual Studio project files` to perform the final compilation of the project with the newly added files.
-* open the "Drone VR.sln" file and ensure that the configuration solution is set to "Debug Game Editor" and the solution platform is set to "Win64" and start the project. The initial compilation may take some time. If the Unreal environment does not open, try restarting the project.
+* Open the "Drone VR.sln" file and ensure that the configuration solution is set to "Debug Game Editor" and the solution platform is set to "Win64" and start the project. The initial compilation may take some time. If the Unreal environment does not open, try restarting the project.
+* If you're using the AirSim plugin for the first time in Unreal Engine, follow these steps:
+  * Check if the AirSim plugin is installed by going to Edit/Plugins and searching for "AirSim".
+  * Go to Window/World Settings and set the GameMode Override to AirSimGameMode.
+  * When you first time play the game, Unreal will ask you which type of vehicle you want to use with AirSim. It's not really important which option you choose, just select one and start playing.
+  *Note: To ensure optimal performance, it's recommended to uncheck the "Use Less CPU when in Background" option in Unreal Editor. To do this, go to Edit/Editor Preferences, search for "CPU", and uncheck the option. If you don't do this, Unreal Engine will be slowed down dramatically when the window loses focus.
+
+
+
+
 
 
 
