@@ -48,6 +48,7 @@ Installation
 * Copy the "Drone_shell" file from the AirSim package and paste it into the ``Document\Unreal Project\Drone_VR`` folder.
 * Copy the "Plugin" file from the "AirSim\Unreal" package and paste it into the ``Document\Unreal Project\Drone_VR`` folder. There may already be a "Plugins" folder inside the "Drone_VR" directory. Simply replace it with the new one from the AirSim package.
 * Right-click on the ``Dorne_VR.uproject`` file in the Drone_VR folder and select `Generate Visual Studio project files` to perform the final compilation of the project with the newly added files.
+* open the "Drone VR.sln" file and ensure that the configuration solution is set to "Debug Game Editor" and the solution platform is set to "Win64" and start the project. The initial compilation may take some time. If the Unreal environment does not open, try restarting the project.
 
 
 
