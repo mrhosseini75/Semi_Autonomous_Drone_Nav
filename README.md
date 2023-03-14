@@ -25,7 +25,7 @@ System
 * CPU with at least 4 cores
 * SSD hard drive with at least 15 GB free space 
 
-Tools ![image](https://user-images.githubusercontent.com/80394968/224968621-17193913-6af5-475d-aaea-0d1dd597e43f.png)
+Tools <img src="https://user-images.githubusercontent.com/80394968/224968817-f3c90999-af62-4c9c-9f00-961ecad7ec51.png" width="100" />
 -----
 * Unreal Engine 4.27
 * AirSim (new version)
