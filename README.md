@@ -61,7 +61,7 @@ Inside the folder, there is a file named `settings.json`, where you can define t
 Delete the existing `settings.json` file and replace it with the file you downloaded from our Google Drive.
 
 * After replacing the `setting.json` file, you need to reopen the `Drone_VR.sln` file in your Unreal project folder. Once the file is open, the changes in the new `setting.json` file and the existing file will merge automatically.
-* Play again `Drone_VR.sln`, open the environment from the bottom window where you can find the Content folder. Inside the Content folder, you will find a map named `Drone_AirSim_Controller.umap`. Try to open it, and the environment will appear. You can now play the game and see the environment, as shown in ![Figure]().
+* Play again `Drone_VR.sln`, open the environment from the bottom window where you can find the Content folder. Inside the Content folder, you will find a map named `Drone_AirSim_Controller.umap`. Try to open it, and the environment will appear. You can now play the game and see the environment, as shown in above figure.
 * 
 Usage
 =============
