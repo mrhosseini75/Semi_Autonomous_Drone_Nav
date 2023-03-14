@@ -20,10 +20,10 @@ Requirments
 <img src="https://user-images.githubusercontent.com/80394968/224969515-c77bdfe8-f115-4f14-bb31-0ca5ce6cbf19.png" width="30" /> System 
 -------
 
-* Win OS 10/11 
+* Win OS 10 or 11 
 * DirectX 11 compatible graphics card with 16 GB video RAM
 * CPU with at least 4 cores
-* SSD hard drive with at least 15 GB free space 
+* SSD hard drive with at least 20 GB free space 
 
 <img src="https://user-images.githubusercontent.com/80394968/224971035-f404cb16-4c9c-437e-b70d-61cad87f9847.png" width="25" /> Tools
 -----
@@ -47,7 +47,7 @@ Installation
 * After adding the Drone_shell file and extracting it, you can use the ``Developer Command Prompt VS22`` to navigate to the repository where you put the AirSim package. Then, you can call ``build.cmd`` to compile the program and generate the "Plugin" folder for Unreal Engine.
 * Copy the "Drone_shell" file from the AirSim package and paste it into the ``Document\Unreal Project\Drone_VR`` folder.
 * Copy the "Plugin" file from the "AirSim\Unreal" package and paste it into the ``Document\Unreal Project\Drone_VR`` folder. There may already be a "Plugins" folder inside the "Drone_VR" directory. Simply replace it with the new one from the AirSim package.
-* 
+* Right-click on the ``Dorne_VR.uproject`` file in the Drone_VR folder and select <div style="background-color: #ff0000; color: #ffffff; padding: 10px;"> Generate Visual Studio project files </div> to perform the final compilation of the project with the newly added files.
 Usage
 =============
 
