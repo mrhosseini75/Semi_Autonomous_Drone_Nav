@@ -15,6 +15,7 @@ The simulation allows for testing and validation of drone-related algorithms and
 </p>
 
 Requirments
+![Agriculture Drone](https://example.com/drone.jpg) Agriculture drone used for farming purposes
 =============
 
 
