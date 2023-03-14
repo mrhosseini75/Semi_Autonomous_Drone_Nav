@@ -61,10 +61,13 @@ Video
 Members
 =============
 1. [Mohammad Reza Haji Hosseini](https://github.com/mrhosseini75) 
-  * email: mrhhosseini75@gam
+  ** email: mrhhosseini75@gam
+ 
 2. Bouazza El Moutaouakli 
   *
+  
 3. Danial Sabzevari   
   * email: electrical.eng.ds@gmail.com
+ 
 4 Parinaz Ramezanpour  
   * email: parinaz.ramezanpoor0@gmail.com
