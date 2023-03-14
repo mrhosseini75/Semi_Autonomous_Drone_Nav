@@ -9,10 +9,10 @@ The simulation allows for testing and validation of drone-related algorithms and
 
 <figure>
   <img src="https://user-images.githubusercontent.com/80394968/224868977-cf1cd102-3fbf-4de7-96cc-528c55794761.png" alt="Image 1">
-  <div style="text-align:center">
-  <figcaption>Caption for Image 1</figcaption>
-  </div>
 </figure>
+<p align="center">
+  Drone farming environment
+</p>
 
 System Requirment 
 ------------------
