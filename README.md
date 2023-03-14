@@ -3,8 +3,16 @@
 System Requirment 
 ==================
 
-* Win 10 or 11 
-*
+* Win OS 10/11 
+
+Tool Requirments
+-----------------
+
+* Open CV for Python
+* Microsoft visual studio 22
+* C++ compiler for VS22
+* NET framework for VS22
+* 
 
 
 
