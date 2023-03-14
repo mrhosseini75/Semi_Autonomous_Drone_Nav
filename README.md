@@ -64,24 +64,30 @@ Delete the existing `settings.json` file and replace it with the file you downlo
 * Play again `Drone_VR.sln`, open the environment from the bottom window where you can find the Content folder. Inside the Content folder, you will find a map named `Drone_AirSim_Controller.umap`. Try to open it, and the environment will appear. You can now play the game and see the environment, as shown in above figure.
 * To connect to the AirSim drone in the Unreal Engine environment, you need to open the DroneShell.sln file from the DroneShell folder in your project file. Make sure the solution configuration is set to "Debug" and the solution platform is set to "x64", and then start it. A shell window will appear where you can find the connection to connect to the AirSim drone. Once connected, you can enter commands and enjoy the game. 
 
-_Note: DroneShell algorithm uses single communication, therfore each time you can send command and wait for answer. Due to the condition mentioned before we have so diffiuctly to get feedback in realtime from drone._
+_Note: The DroneShell algorithm uses a single communication channel, so every time you send a command, you have to wait for a response. This condition makes it difficult to get real-time feedback from the drone._
 
 Usage
 =============
-| Github-page | Email |
+
+| Function | ability|
 |------------------|------------------|
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
-|                  |                  |
+|CircleByPath|Make the drone go in a circle using path commands|
+|GetImage|Get an image from the simulator|
+|GoHome|Go back to the takeoff point and land|
+|Land|Land the drone|
+|MoveByManual|Move using Keyboard|
+|MoveToPosition|Move to x,y,z with specified velocity|
+|PlayPose|Use data registered via recordpose() to reach set of points|
+|RecordPose|This command allows the user to append a single pose snapshot and create mauale path|
+|RequestControl|Take offboard control of drone|
+|SensorFeedback|retrieve feedback from the Barometer, GPS, and IMU  and Lidar sensors|
+|SquareByPath|Make the drone go in a square using path commands|
+|TakeOff|Drone takeoff to a default altitude|
+|help,?|Help on the supported commands|
+|quit,q|Exit the shell|
+|#|Comment out the line|
+
+                                  
 
 
 
