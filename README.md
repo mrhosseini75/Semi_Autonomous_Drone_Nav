@@ -70,6 +70,4 @@ Members
   * email: electrical.eng.ds@gmail.com
  
 4 [Parinaz Ramezanpour](https://github.com/ParinazRmp) 
-  <ul>
-  <li class="empty-dot"></li>
-</ul> email: parinaz.ramezanpoor0@gmail.com
+  To contact us, please send an email to [our email address](parinaz.ramezanpoor0@gmail.com)
