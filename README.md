@@ -14,28 +14,29 @@ The simulation allows for testing and validation of drone-related algorithms and
   Drone farming environment
 </p>
 
-Installation
+Requirments
 =============
-System Requirment 
-------------------
+
+System 
+-------
 
 * Win OS 10/11 
-* DirectX 11 compatible graphics card with at least 2 GB video RAM
+* DirectX 11 compatible graphics card with 16 GB video RAM
 * CPU with at least 4 cores
-* At least 16 GB RAM
 * SSD hard drive with at least 15 GB free space 
 
-Tool Requirments
------------------
+Tools
+-----
 * Unreal Engine 4.27
 * AirSim (new version)
 * Open CV for Python
 * Microsoft visual studio 22
 * C++ compiler for VS22
 * NET framework for VS22
-* 
+
+Installation
+=============
 
 
 
-Tools
-=======
+
