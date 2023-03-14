@@ -7,15 +7,10 @@ The simulation process involves creating a virtual environment using Unreal Engi
 
 The simulation allows for testing and validation of drone-related algorithms and techniques, such as object detection, path planning, and data collection. It also enables the development of new features and applications that can be integrated into the drone's hardware and software. Additionally, the use of AI and machine learning algorithms in the simulation can improve the accuracy and efficiency of data collection and analysis.
 
- 
 <figure>
-<div style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/80394968/224868977-cf1cd102-3fbf-4de7-96cc-528c55794761.png" width="500" />
-   <figcaption>Caption for Image 1</figcaption>
-</div>
- </figure>
-
-
+  <img src="[image1.jpg](https://user-images.githubusercontent.com/80394968/224868977-cf1cd102-3fbf-4de7-96cc-528c55794761.png)" alt="Image 1">
+  <figcaption>Caption for Image 1</figcaption>
+</figure>
 
 System Requirment 
 ------------------
