@@ -62,7 +62,7 @@ Members
 =============
 | Github-page | Email |
 |------------------|------------------|
-| [Mohammad Reza Haji Hosseini](https://github.com/mrhosseini75) | mrhhosseini75@gam |
+| [Mohammad Reza Haji Hosseini](https://github.com/mrhosseini75) | mrhhosseini75@gamil.com |
 | Bouazza El Moutaouakli  | Row 2, Column 2 |
 | Danial Sabzevari  | electrical.eng.ds@gmail.com |
 | [Parinaz Ramezanpour](https://github.com/ParinazRmp)  | parinaz.ramezanpoor0@gmail.com |
