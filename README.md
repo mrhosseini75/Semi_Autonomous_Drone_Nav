@@ -30,13 +30,14 @@ Requirments
 * Unreal Engine 4.27
 * AirSim (new version)
 * Open CV for Python
-* Microsoft visual studio 22
-* C++ compiler for VS22
-* NET framework for VS22
+* Microsoft visual studio 22 
+* Desktop Development with C++ & Developer Command Prompt for VS 2022
+* NET Framework SDK (Windows 10 SDK 10.0.19041)
 
 Installation
 =============
-
+* Install Epic game launcher & [Unreal Engine 4.27](https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/)
+* Download [AirSim](https://microsoft.github.io/AirSim/) package 
 * To download the project files, go to [Google Drive](https://drive.google.com/drive/folders/1HEl6NDDz8kOuERAFpLMrJWBNcjAKZSu_?usp=share_link) and look for a file called "Assignment VR". Inside, you'll find two zip folders and a script called "setting.json".
 
 * The "Drone_VR" folder contains the Unreal Engine environment. Extract it into the ``Documents\Unreal Projects`` directory.
