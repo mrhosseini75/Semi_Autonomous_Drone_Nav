@@ -69,6 +69,8 @@ _Note: The DroneShell algorithm uses a single communication channel, so every ti
 Usage
 =============
 
+* All avabile command for drone are showned in following table:
+
 | Function | ability|
 |------------------|------------------|
 |CircleByPath|Make the drone go in a circle using path commands|
