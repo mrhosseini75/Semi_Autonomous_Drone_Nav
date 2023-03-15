@@ -36,8 +36,8 @@ The simulation allows for testing and validation of drone-related algorithms and
 
 <img src="https://user-images.githubusercontent.com/80394968/225428258-e8b9859d-d05b-42ed-b783-29340073b10f.png" width="30" /> Installation
 =============
-* Install Epic game launcher & [Unreal Engine 4.27](https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/)
-* Download [AirSim <img src="https://user-images.githubusercontent.com/80394968/225436817-80fbf002-6b35-4a5d-8d35-27be455c44ce.png" width="30" />](https://microsoft.github.io/AirSim/) package 
+* Install [<img src="https://user-images.githubusercontent.com/80394968/225437508-f562a213-8cf2-453c-8339-eaa61566612d.png" width="40" />](https://store.epicgames.com/it/download) & [Unreal Engine 4.27 <img src="https://user-images.githubusercontent.com/80394968/225438640-d60cf3f9-d32e-4771-a3cb-487d0e1b66c3.png" width="40" />](https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/)
+* Download [<img src="https://user-images.githubusercontent.com/80394968/225436817-80fbf002-6b35-4a5d-8d35-27be455c44ce.png" width="40" />](https://microsoft.github.io/AirSim/) package 
 * To download the project files, go to [Google Drive](https://drive.google.com/drive/folders/1HEl6NDDz8kOuERAFpLMrJWBNcjAKZSu_?usp=share_link) and look for a file called "Assignment VR". Inside, you'll find two zip folders and a script called "setting.json".
 
 * The "Drone_VR" folder contains the Unreal Engine environment. Extract it into the ``Documents\Unreal Projects`` directory.
