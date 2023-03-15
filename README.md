@@ -100,13 +100,24 @@ Command List
   >> gohome
   >> land
   ```
-* NB: You can also following python script to get feedback from Lidar point cloud projected on ground and detect object 
+  
+* NB: You can use the following Python script to receive, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script`(<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficmarzabottobologna.edu.it%2Fsospensione-delle-attivita-delle-scuole-di-ogni-ordine-e-grado%2Fattention-307030_1280-2%2F&psig=AOvVaw0pwPjspnwGZv7H7fD2sv8x&ust=1678994316505000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjnqrLT3v0CFQAAAAAdAAAAABAE" width="10" /> Launch the script in a separate Windows command prompt):
 
+* Feedback from a Lidar point cloud projected on the ground 
+  ```
+  $ python plot_lidar_mapping.py
+  ```
+
+*  Visual Object Detection 
+  ```
+  $ python object_detection.py
+  ```
+  
+  
 Video
 =============
 
-[![Alt text for your video](![image](https://user-images.githubusercontent.com/80394968/225417528-b50835ea-f0b1-492f-a349-d2ee5d196022.png)
-)]("https://www.youtube.com/watch?v=574gSSCJ8vE")
+
 Members
 =============
 | Github-page | Email |
