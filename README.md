@@ -66,7 +66,7 @@ Delete the existing `settings.json` file and replace it with the file you downlo
 
 _Note: The DroneShell algorithm uses a single communication channel, so every time you send a command, you have to wait for a response. This condition makes it difficult to get real-time feedback from the drone._
 
-<img src="https://user-images.githubusercontent.com/80394968/225426287-88502321-8fb9-4267-ab22-61ca9000b409.png" width="40" /> Command List
+<img src="https://user-images.githubusercontent.com/80394968/225429215-31d32ab3-4e23-47b2-b513-d41e9ddea48f.png" width="40" /> Command List
 =============
 
 * All avabile command for drone are showned in following table:
@@ -104,7 +104,8 @@ _Note: The DroneShell algorithm uses a single communication channel, so every ti
   >> gohome
   >> land
   ```
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img src="https://user-images.githubusercontent.com/80394968/225421191-7eaccea8-468e-410e-b482-4cee7d3abe33.png" width="30" /> **Python**
 
 You can use the following Python script to receive, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script`(<img src="https://user-images.githubusercontent.com/80394968/225420908-3c590275-eaf3-43d0-a3e6-f013633d321e.png" width="30" /> launch the script in a separate Windows command prompt):
