@@ -34,7 +34,7 @@ The simulation allows for testing and validation of drone-related algorithms and
 * Desktop Development with C++ & Developer Command Prompt for VS 2022
 * NET Framework SDK (Windows 10 SDK 10.0.19041)
 
-<img src="https://user-images.githubusercontent.com/80394968/225427134-4c801bdb-6368-4caa-8376-575e4bd74bae.png" width="40" /> Installation
+<img src="https://user-images.githubusercontent.com/80394968/225428258-e8b9859d-d05b-42ed-b783-29340073b10f.png" width="30" /> Installation
 =============
 * Install Epic game launcher & [Unreal Engine 4.27](https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/)
 * Download [AirSim](https://microsoft.github.io/AirSim/) package 
@@ -124,7 +124,7 @@ You can use the following Python script to receive, go in `C:\Users\pc_name\Docu
 =============
 
 
-Members
+<img src="https://user-images.githubusercontent.com/80394968/225428503-ce0991e7-10c8-45f5-bb52-ab4de821c27d.png" width="30" /> Members
 =============
 | Github-page | Email |
 |------------------|------------------|
