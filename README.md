@@ -66,7 +66,7 @@ Delete the existing `settings.json` file and replace it with the file you downlo
 
 _Note: The DroneShell algorithm uses a single communication channel, so every time you send a command, you have to wait for a response. This condition makes it difficult to get real-time feedback from the drone._
 
-Usage
+Command List
 =============
 
 * All avabile command for drone are showned in following table:
@@ -89,13 +89,24 @@ Usage
 |quit,q|Exit the shell|
 |#|Comment out the line|
 
-                                  
-
-
+* NB: When calling a function, simply type the initial letter and use the Tab key for auto-completion. If a function is not specified input values, the default values will be used. If you wish to modify a value, proceed as follows. For example:
+  ```
+  >> requestcontrol
+  >> takeoff
+  >> movetoposition -x [float value] -y [float value] -z [float value] -velocity [float value]
+  >> squarebypath -length [integer value] -velocity [float value] -z [float value] -iteration [integer value]
+  >> circularbypath -radius [integer value] -velocity [float value] -z [float value] -iteration [integer value]
+  >> getimage -type [type name] -iteration [integer value]
+  >> gohome
+  >> land
+  ```
+* NB: You can also following python script to get feedback from Lidar point cloud projected on ground and detect object 
 
 Video
 =============
 
+[![Alt text for your video](![image](https://user-images.githubusercontent.com/80394968/225417528-b50835ea-f0b1-492f-a349-d2ee5d196022.png)
+)]("https://www.youtube.com/watch?v=574gSSCJ8vE")
 Members
 =============
 | Github-page | Email |
