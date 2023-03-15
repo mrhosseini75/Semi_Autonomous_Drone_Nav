@@ -108,7 +108,7 @@ _Note: The DroneShell algorithm uses a single communication channel, so every ti
 
 <img src="https://user-images.githubusercontent.com/80394968/225421191-7eaccea8-468e-410e-b482-4cee7d3abe33.png" width="30" /> **Python**
 
-You can use the following Python script to receive, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script`(<img src="https://user-images.githubusercontent.com/80394968/225420908-3c590275-eaf3-43d0-a3e6-f013633d321e.png" width="30" /> launch the script in a separate Windows command prompt):
+You can use the following Python script to receive, <img src="https://user-images.githubusercontent.com/80394968/225420908-3c590275-eaf3-43d0-a3e6-f013633d321e.png" width="30" /> launch the script in a separate Windows command prompt, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script` and write:
 
 * Feedback from a Lidar point cloud projected on the ground 
   ```
