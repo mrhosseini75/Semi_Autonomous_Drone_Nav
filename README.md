@@ -91,7 +91,7 @@ Command List
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/80394968/225422299-d1f493f1-e565-46b1-a242-ec5a2f9baa99.png" width="30" />**Shell**
+<img src="https://user-images.githubusercontent.com/80394968/225422853-25ee6558-d41d-4e33-afc2-769e24579fa5.png" width="30" /> **Shell**
 
  When calling a function, simply type the initial letter and use the Tab key for auto-completion. If a function is not specified input values, the default values will be used. If you wish to modify a value, proceed as follows. For example:
   ```
@@ -120,7 +120,7 @@ You can use the following Python script to receive, go in `C:\Users\pc_name\Docu
     ```
   
   
-Video
+<img src="https://user-images.githubusercontent.com/80394968/225423274-37722f94-a758-4c1f-ade6-49e4d10ef489.png" width="30" /> Video
 =============
 
 
