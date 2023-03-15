@@ -89,7 +89,11 @@ Command List
 |quit,q|Exit the shell|
 |#|Comment out the line|
 
-* NB: When calling a function, simply type the initial letter and use the Tab key for auto-completion. If a function is not specified input values, the default values will be used. If you wish to modify a value, proceed as follows. For example:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://user-images.githubusercontent.com/80394968/225422299-d1f493f1-e565-46b1-a242-ec5a2f9baa99.png" width="30" />**Shell**
+
+ When calling a function, simply type the initial letter and use the Tab key for auto-completion. If a function is not specified input values, the default values will be used. If you wish to modify a value, proceed as follows. For example:
   ```
   >> requestcontrol
   >> takeoff
