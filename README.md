@@ -101,7 +101,7 @@ Command List
   >> land
   ```
   
-* NB: You can use the following Python script to receive, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script`(<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficmarzabottobologna.edu.it%2Fsospensione-delle-attivita-delle-scuole-di-ogni-ordine-e-grado%2Fattention-307030_1280-2%2F&psig=AOvVaw0pwPjspnwGZv7H7fD2sv8x&ust=1678994316505000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjnqrLT3v0CFQAAAAAdAAAAABAE" width="10" /> Launch the script in a separate Windows command prompt):
+* NB: You can use the following Python script to receive, go in `C:\Users\pc_name\Documents\Unreal Projects\Drone_VR\DroneShell\script`(<img src="https://user-images.githubusercontent.com/80394968/225420908-3c590275-eaf3-43d0-a3e6-f013633d321e.png" width="10" /> Launch the script in a separate Windows command prompt):
 
 * Feedback from a Lidar point cloud projected on the ground 
   ```
@@ -109,9 +109,9 @@ Command List
   ```
 
 *  Visual Object Detection 
-  ```
-  $ python object_detection.py
-  ```
+    ```
+    $ python object_detection.py
+    ```
   
   
 Video
