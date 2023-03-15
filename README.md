@@ -1,4 +1,4 @@
-# Semi Autonomus Drone Navigation
+# Semi Autonomous Drone Navigation
 
 Introduction
 =============
