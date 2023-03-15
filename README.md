@@ -1,6 +1,6 @@
 # Semi Autonomous Drone Navigation
 
-Introduction
+ <img src="https://user-images.githubusercontent.com/80394968/225423962-20e41029-7560-4143-aff2-9df355b08dbd.png" width="30" /> Introduction
 =============
 
 The simulation process involves creating a virtual environment using Unreal Engine 4.27 and the AirSim plugin, which provides a high-fidelity simulation of drone flight and sensor data collection. The environment includes various types of crops, terrain, and obstacles that the drone must navigate around. The simulation allows for the testing and validation of different drone sensors, including RGB and thermal cameras, LIDAR, and ultrasound sensors.
@@ -120,7 +120,7 @@ You can use the following Python script to receive, go in `C:\Users\pc_name\Docu
     ```
   
   
-<img src="https://user-images.githubusercontent.com/80394968/225423274-37722f94-a758-4c1f-ade6-49e4d10ef489.png" width="30" /> Video
+<img src="https://user-images.githubusercontent.com/80394968/225423662-741b28ca-52e0-4dcd-b1e6-e9fbf2aefd0e.png" width="30" /> Video
 =============
 
 
